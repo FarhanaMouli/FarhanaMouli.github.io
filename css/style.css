@@ -23,6 +23,7 @@ boy{
 
 .education-container{
     background-color: #EEEDEF;
+    
 }
 
 .bg-redtype{
@@ -42,7 +43,6 @@ boy{
     height: 150px;
     border-radius: 50%;
     background-color: #FB8482;
-    
 }
 
 .project-container{
@@ -75,3 +75,4 @@ boy{
 .icon-circle:hover{
     background-color: #474C5E;
 }
+
